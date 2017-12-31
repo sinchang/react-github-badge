@@ -7,7 +7,7 @@
 
 ## Demo
 
-[see here](https://react-github.badge.netlify.com)
+[see here](https://react-github-badge.netlify.com)
 
 ## Install
 
