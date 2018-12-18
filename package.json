@@ -1,6 +1,6 @@
 {
   "name": "@sinchang/react-github-badge",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "url": "sinchang/react-github-badge",
     "type": "git"
@@ -17,9 +17,7 @@
     "prepublishOnly": "npm run package"
   },
   "dependencies": {
-    "prop-types": "^15.6.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "prop-types": "^15.6.0"
   },
   "author": "sinchang <sinchangwen@gmail.com>",
   "license": "MIT",
@@ -30,5 +28,9 @@
     "poi-preset-react": "^9.2.1",
     "poi-preset-sw-precache": "^1.0.0",
     "tyu": "^1.0.4"
+  },
+  "peerDependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
   }
 }
